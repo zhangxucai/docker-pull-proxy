@@ -1,1 +1,1 @@
-semitechnologies/weaviate:1.19.0 registry.cn-hangzhou.aliyuncs.com/dify-qjb/weaviate:1.19.0
+redis:6-alpine registry.cn-hangzhou.aliyuncs.com/dify-qjb/redis:6-alpine
