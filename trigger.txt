@@ -1,1 +1,1 @@
-nginx:latest registry.cn-hangzhou.aliyuncs.com/dify-qjb/nginx:latest
+ubuntu/squid:latest registry.cn-hangzhou.aliyuncs.com/dify-qjb/squid:latest
