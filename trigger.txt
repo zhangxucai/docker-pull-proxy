@@ -1,1 +1,1 @@
-mintplexlabs/anythingllm:lastest registry.cn-hangzhou.aliyuncs.com/dify-qjb/anythingllm:lastest
+mintplexlabs/anythingllm registry.cn-hangzhou.aliyuncs.com/dify-qjb/anythingllm
