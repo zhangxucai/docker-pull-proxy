@@ -1,1 +1,1 @@
-mintplexlabs/anythingllm registry.cn-hangzhou.aliyuncs.com/dify-qjb/anythingllm
+zlmediakit/zlmediakit:master registry.cn-hangzhou.aliyuncs.com/dify-qjb/zlmediakit:master
